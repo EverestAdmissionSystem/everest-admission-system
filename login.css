@@ -1,0 +1,10 @@
+.navbar-dark .navbar-nav .nav-item .register:hover {
+  color: #fff !important;
+}
+
+.form-control:focus {
+  background-color:  #fff !important;
+  border-width: 3px !important;
+  border-color: #EDEFF0 !important;
+  box-shadow: 0 0 0 .2rem #EDEFF0;
+}

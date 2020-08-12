@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+    color: #6c757d;
+}
+
+.text-success {
+    color: #5fcf80 !important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #5fcf80 !important;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #fff !important;
+}
+
+.navbar-dark .navbar-brand:focus {
+    color: #5fcf80 !important;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: #5fcf80 !important;
+}
+
+.navbar-brand {
+    font-size: 1.3rem;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #5fcf80;
+    border-color: #5fcf80;
+}
+
+.btn-success:hover {
+    background-color: #3ac162;
+    border-color: #3ac162;
+}
+
+.form-control {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
+    font-family: 'Open Sanss', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.text-success-dark {
+    color: #28a745;
+}
+
+.text-danger-dark {
+    color: #dc3545 !important;
+}
+
+.alert {
+    font-size: 1.1rem;
+}
+
+.info-card {
+    width: 100%;
+    text-align: center;
+}

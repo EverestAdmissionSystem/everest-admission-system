@@ -1,0 +1,49 @@
+.list-group-item.active {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #28a745;
+}
+
+.navbar-dark .navbar-nav .username-display:hover {
+    color: #5fcf80 !important;
+}
+
+.btn.focus, .btn:focus {
+    box-shadow: 0 0 0 .2rem #5fcf80;
+}
+
+.btn:hover {
+    box-shadow: 0 0 0 .2rem #5fcf80;
+}
+
+.dropdown-menu, .dropdown-item {
+    background-color: #3e474f;
+    border-color: #3e474f;
+}
+
+.dropdown-item {
+    color: #5fcf80;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #fff;
+    background-color: #3e474f;
+}
+
+.list-group-item {
+    background-color: #EDEFF0;
+    font-weight: bolder;
+}
+
+.list-group-item + .list-group-item {
+    border-top-width: 0;
+    font-weight: bolder;
+}
+
+.table {
+    font-size: 1.2rem;
+}
+
+label {
+    font-size: 1.2rem;
+}
