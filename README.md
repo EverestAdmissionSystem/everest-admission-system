@@ -42,4 +42,4 @@ The following are the significance of a web application over the traditional sys
 - Saves the students the costs of travelling long distance and accommodation.
 - Gives out the admission results much faster compared to the traditional system.
 
-Thank you!
+Happy coding :)
