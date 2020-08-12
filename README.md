@@ -1,4 +1,6 @@
-* This is a class project to practice our web development skills *
+*This is a class project to test our web programming skills. 
+We were asked to a find a problem that can be solved by creating a web application.
+Our idea is to create a school admission system web application that will replace the traditional one as described below;*
 
 # Everest Admission System
 
